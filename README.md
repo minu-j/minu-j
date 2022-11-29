@@ -24,5 +24,7 @@
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white)
 
-![minu's GitHub stats](https://github-readme-stats.vercel.app/api?username=minu-j&show_icons=true&theme=graywhite)
+[![minu's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minu-j&hide_border=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&#gh-dark-mode-only)](https://github.com/minu-j/github-readme-stats#gh-dark-mode-only)
+[![minu's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minu-j&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/minu-j/github-readme-stats#gh-light-mode-only)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minu-j&layout=compact)](https://github.com/minu-j/github-readme-stats)
