@@ -4,6 +4,8 @@
 
 ---
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minu_j)](https://solved.ac/minu_j/)
+
 ✏️ SSAFY 8th
 
 💪 Skills
