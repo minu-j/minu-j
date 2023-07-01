@@ -1,14 +1,16 @@
-🙋‍♂️ Hi, I'm Minu
+### 감각있는 프론트엔드 개발자, 정민우입니다.
 
-> "What do you care what other people think?"
+[🛸 Blog](https://velog.io/@minu-j) | [📸 Instagram](https://www.instagram.com/_minu.j/)
 
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minu_j)](https://solved.ac/minu_j/)
 
-✏️ SSAFY 8th
+### Education
 
-💪 Skills
+삼성 청년 SW 아카데미(SSAFY) 8기 수료 <sup>2022.07. - 2023.06.
+
+### Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,8 +28,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-👀 Interested in
+### About me...
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
-![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white)
+- 프론트엔드 개발과 사용자 경험 향상에 관심이 있습니다.
+- 영화로 인생을 배웠습니다.
+- 포토샵과 그래픽 디자인, 영상편집을 꽤 잘 합니다.
+- 심심할 땐 라즈베리파이 서버를 이용한 홈 IoT 구축을 합니다.
+
+> "What do you care what other people think?"
+> -Richard Feynman
