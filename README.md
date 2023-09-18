@@ -1,6 +1,6 @@
 ### 감각있는 프론트엔드 개발자, 정민우입니다.
 
-[🛸 Blog](https://velog.io/@minu-j) | [📸 Instagram](https://www.instagram.com/_minu.j/)
+[🏡 Home](https://minu-j.github.io) | [🛸 Blog](https://velog.io/@minu-j) | [📸 Instagram](https://www.instagram.com/_minu.j/)
 
 ---
 
