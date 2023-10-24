@@ -6,6 +6,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minu_j)](https://solved.ac/minu_j/)
 
+### Side Projects
+
+[키비츠 벅스 | Kibitz bugs](https://github.com/minu-j/kibitz-bugs) <sup>2023.08. - 현재
+
 ### Education
 
 삼성 청년 SW 아카데미(SSAFY) 8기 수료 <sup>2022.07. - 2023.06.
