@@ -6,7 +6,7 @@
 
 ### Side Projects
 
-[키비츠 벅스 | Kibitz bugs](https://github.com/minu-j/kibitz-bugs) <sup>2023.08. - 현재
+[키비츠 벅스 | Kibitz bugs](https://github.com/minu-j/kibitz-bugs) <sup>2023.09.~now | [회고](https://velog.io/@minu-j/Kibitz-bugs)
 
 ### Education
 
